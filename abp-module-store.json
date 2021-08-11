@@ -1,5 +1,6 @@
 {
 	"Volo.Abp.FeatureManagement" : {
 		"dependentModules" : []
-	}
+	},
+	"Cotur.Basic.Template":{}
 }
