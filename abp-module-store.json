@@ -1,7 +1,10 @@
 {
-	"Volo.Abp.FeatureManagement" : {
-		"dependentModules" : []
-	},
-	"Cotur.Basic.Template":{},
-	"Volo.Abp.Identity": {}
+	"name": "ABP Open Source Modules",
+	"modules" : {
+		"Volo.Abp.FeatureManagement" : {
+			"dependentModules" : []
+		},
+		"Cotur.Basic.Template":{},
+		"Volo.Abp.Identity": {}
+	}
 }
