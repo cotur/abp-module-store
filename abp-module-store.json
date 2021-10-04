@@ -5,6 +5,8 @@
 			"dependentModules" : []
 		},
 		"Cotur.Basic.Template":{},
-		"Volo.Abp.Identity": {}
+		"Volo.Abp.Identity": {},
+		"Volo.Abp.Account": {},
+		"Volo.Abp.IdentityServer": {}
 	}
 }
