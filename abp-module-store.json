@@ -10,6 +10,12 @@
 		"Volo.Abp.FeatureMaganement": {},
 		"Volo.Abp.TenantMaganement": {},
 		"Volo.Abp.SettingMaganement": {},
+		"Volo.Abp.BlobStoring.Database": {},
+		"Volo.Blogging": {},
+		"Volo.CmsKit": {},
+		"Volo.Docs": {},
+		"Volo.Abp.Users": {},
+		"Volo.Abp.VirtualFileExplorer": {},
 		"Volo.Abp.BasicTheme": {}
 	}
 }
