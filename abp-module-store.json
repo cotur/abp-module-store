@@ -3,6 +3,13 @@
 	"modules" : {
 		"Volo.Abp.Identity": {},
 		"Volo.Abp.Account": {},
-		"Volo.Abp.IdentityServer": {}
+		"Volo.Abp.IdentityServer": {},
+		"Volo.Abp.AuditLogging": {},
+		"Volo.Abp.BackgroundJobs": {},
+		"Volo.Abp.PermissionMaganement": {},
+		"Volo.Abp.FeatureMaganement": {},
+		"Volo.Abp.TenantMaganement": {},
+		"Volo.Abp.SettingMaganement": {},
+		"Volo.Abp.BasicTheme": {}
 	}
 }
