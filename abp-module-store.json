@@ -11,9 +11,7 @@
 		"Volo.Abp.TenantManagement": {},
 		"Volo.Abp.SettingManagement": {},
 		"Volo.Abp.BlobStoring.Database": {},
-		"Volo.Blogging": {},
 		"Volo.CmsKit": {},
-		"Volo.Docs": {},
 		"Volo.Abp.Users": {},
 		"Volo.Abp.VirtualFileExplorer": {},
 		"Volo.Abp.BasicTheme": {}
